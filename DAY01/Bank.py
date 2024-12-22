@@ -80,3 +80,4 @@ class Bank:
 
 obj = Bank()
 obj.Validation()
+prin
